@@ -1,0 +1,11 @@
+
+
+body {
+    display: flexbox;
+    background-color: rgb(31, 31, 57);
+}
+
+li {
+    display: none;
+    float: left;
+}
